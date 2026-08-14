@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2000 2000">
+  <style>
+    .sq { fill: #030508; }
+  </style>
+  <rect x="50" y="50" width="900" height="900" class="sq"/>
+  <rect x="1035" y="35" width="930" height="930" fill="#FFB500"/>
+  <rect x="50" y="1050" width="900" height="900" class="sq"/>
+  <rect x="1050" y="1050" width="900" height="900" class="sq"/>
+</svg>
