@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-# До переезда на домен бесполезен
+Sitemap: https://auteamz.ru/sitemap.xml
